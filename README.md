@@ -40,7 +40,7 @@ WE LAUNCHED OUR MIRRORS IN ALL OVERS WORLD MIRRORS ARE LISTED BELOW
 
 # WEBSITE MIRRORS
 
-https://incubo.serveo.net/opb ("Use This Of Use The Second one")
+https://incubo.serveo.net/opb ("Use This Or Use The Second one")
 
 https://anubhabopb.serveo.net/opb (causal server)
 
