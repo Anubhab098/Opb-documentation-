@@ -66,6 +66,11 @@ And if you not want to donate PLS
 Subscribe my YouTube channel 
 @CyberSecurityExpert
 
+# FAQ
+
+IF YOU HAVE ANY QUESTIONS FELL FREE TO
+COMMENT IN THE COMMENT BOX OR FEEDBACK US
+
 
 
 
