@@ -18,7 +18,7 @@ THEN YOU ENTER YOUR LHOST AND LPORT IN THAT MESSAGE
 WE WILL SEND YOU A LINK CONTAINING PAYLOAD BINDED APK
 SIMPLY DOWNLOAD IT AND YOU ARE READY TO GOooooo!!!.
 
-#why did you need  choose your opb
+# why did you need  choose your opb
 
 1.ITS BETTER FROM SATTH.VIK KS OPB
 
@@ -29,6 +29,10 @@ SIMPLY DOWNLOAD IT AND YOU ARE READY TO GOooooo!!!.
 4. ITS NEVERS GOES OFFLINE (OUR SERVICES WILL NEVER GO OFFLINE LIKE SATHVIKK.KS opb)
 
 5.IF YOU WANT TO BIND PAYLOAD IN AN APK WITHOUT ANY HASSLE THEN SIMPLY CHOOSE OUR opb
+
+6.SATHVIKK.KS Opb Sucks Because It  Not Open Many Of The Times.
+
+7.WE WILL FAST MIRRORS OF WEBSITE TO GET YOU GOOD FELLING EVERY TIME YOU USE OUR Opb
 
 # FINAL WORDS :)
 
@@ -41,6 +45,7 @@ https://mono.serveo.net/opb
 https://mixturm.serveo.opb/opb
 http://719bak.ngrok.io/opb  (Unstable mirror)
 https://webhostingfree.anubhab.io/opb
+
 https://server.anubhab.org/opb.  (VERY STABLE MIRROR)
 
 # Feedback Mirrors
