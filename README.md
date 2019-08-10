@@ -52,7 +52,7 @@ https://server.anubhab.org/opb.  (VERY STABLE MIRROR)
 
 # Feedback Mirrors
 
-https://anubhabopb.serveo.net (very fast server use this)
+https://anubhabopb.serveo.net/fdb (very fast server use this)
 
 https://server.anubhab.org/fdb
 https://mixturm.serveo.net/fdb
