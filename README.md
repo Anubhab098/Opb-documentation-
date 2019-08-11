@@ -40,6 +40,8 @@ WE LAUNCHED OUR MIRRORS IN ALL OVERS WORLD MIRRORS ARE LISTED BELOW
 
 # WEBSITE MIRRORS
 
+http://anubhab123-58297.portmap.host:58297/opb/ (stable server use this)
+
 https://incubo.serveo.net/opb ("Use This Or Use The Second one")
 
 https://anubhabopb.serveo.net/opb (very fast server use this)
@@ -53,6 +55,8 @@ https://webhostingfree.anubhab.io/opb
 https://server.anubhab.org/opb.  (VERY STABLE MIRROR)
 
 # Feedback Mirrors
+
+http://anubhab123-58297.portmap.host:58297/fdb (stable server use this)
 
 https://incubo.serveo.net/fdb (use this or use second one)
 
